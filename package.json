@@ -1,0 +1,14 @@
+{
+  "name": "another-test-package", 
+  "version": "1.0.0",
+  "description": "Another test package for Rippli automation",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run jest",
+    "start": "node app.js",
+    "build": "webpack --mode production"
+  },
+  "keywords": ["testing", "automation", "rippli"],
+  "author": "Test Author 2",
+  "license": "MIT"
+}
